@@ -3,14 +3,17 @@ body {
   font-family: "Cambria", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0 20px;
   background: #FFFFFF;
-  padding: 10px 10px 10px 10px; }
+  padding: 10px 10px 10px 10px;
+  margin: 0;
+  padding: 0; }
 
 /* Title of the resume */
 h1 {
   font-size: 25px;
   color: #757575;
   text-align: center;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  margin-top: 0; }
 
 /* Titles of categories */
 h2 {
