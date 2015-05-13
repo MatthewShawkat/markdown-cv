@@ -10,6 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-shell": "^0.4.1"
+    "gulp-livereload": "^3.8.0",
+    "gulp-sass": "^2.0.0",
+    "gulp-shell": "^0.4.1",
+    "gulp-watch": "^4.2.4"
   }
 }
