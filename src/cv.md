@@ -2,12 +2,25 @@
 
 > Web Developer
 
-> 075 010 86 252 - [matthew@hexolab.com](matthew@hexolab.com) - 110 Hoxton Street, London - [github.com/MatthewShawkat](github.com/MatthewShawkat)
+> 075 010 86 252 - [matthew@hexolab.com](matthew@hexolab.com) - 28 William Jessop Court, Manchester - [github.com/MatthewShawkat](github.com/MatthewShawkat)
 
 ## Profile
 I'm a passionate and dedicated web developer, with an interest in self-development and learning new things. My aim is to create robust and high quality systems, which are aesthetically pleasing and provide usable interfaces. I'm very flexible and adaptable to new technologies, which I enjoy experimenting with. I like to work on interesting challenges, and I am currently looking to join a dynamic and ambitious team.
 
 ## Work
+----------------------------    --------------------
+Front End Developer - Essence    Sep 2014 - Current
+----------------------------    --------------------
+
+I worked with a Scrum team developing a web framework that provides offline capabilities to the Salesforce platform. The framework is built on HTML5 and AngularJS; it runs on a desktop browser, as well as mobile phones as a hybrid app using Cordova. Some of the work I did included:
+
+- Structured the AngularJS app in a modular way, with asynchronous module loading (ADM) implemented in RequireJS. Also, I decoupled the core functionality of the automatic syncing and offline storage, by implementing it in native JavaScript, using CoffeScript to avoid common JavaScript pitfalls, and achieve code readability.
+- Introduced Ionic Framework that provides a mobile first user interface, with full AngularJS integration. I integrated the SASS pre-processor to provide power and modularity in terms of generating style sheets.
+- Used IndexedDB and WebSQL to store data on the browser while offline, and synchronise automatically when back online. In addition, I used Underscore to write robust and clean code.
+- Set up Grunt to orchestrate the build process and provide one click deployments. The process compiles CoffeeScript and Sass, lints the code, runs the Karma tests, then minifies and copies the assets to the build directory. Documentation is auto generated from the source code.
+- Used Bower to manage third party dependencies, alongside internal library dependencies by converting them to bower packages.
+- Utilised Git for source control, and implemented a collaboration mechanism similar to the open source community, using Bitbucket.
+
 ----------------------------    --------------------
 Front End Developer - Tquila     May 2014 - Sep 2014
 ----------------------------    --------------------
@@ -21,9 +34,9 @@ I worked with a Scrum team developing a web framework that provides offline capa
 - Used Bower to manage third party dependencies, alongside internal library dependencies by converting them to bower packages.
 - Utilised Git for source control, and implemented a collaboration mechanism similar to the open source community, using Bitbucket.
 
--------------------------------------   ----------------
-Freelance Web Developer - HexoLab Oct    2013 - May 2014
--------------------------------------   ----------------
+---------------------------------    --------------------
+Freelance Web Developer - HexoLab     Oct 2013 - May 2014
+---------------------------------    --------------------
 
 I have been working with multiple clients on a wide range of projects. I work simultaneously on these projects and adopt a lean methodology, where I would go through multiple iterations with clients. Some of the projects include:
 
@@ -52,7 +65,7 @@ I worked with a small team on a highly specialised management system for housing
 - Creating wireframes and high fidelity mock-ups to test some ideas. I went through iterations of small prototypes before development, avoiding the trap of committing to a design that does not match the clients’ expectations.
 
 -------------------------------------------------   --------------------
-Application Developer (Placement) - Goldman Sachs    Jun 2010 - JUN 2011
+Application Developer (Placement) - Goldman Sachs    Jun 2010 - Jun 2011
 -------------------------------------------------   --------------------
 I worked with a core technical team developing libraries and infrastructure for other teams. Some of my work included:
 
