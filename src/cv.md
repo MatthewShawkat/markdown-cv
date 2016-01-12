@@ -8,9 +8,9 @@
 I'm a passionate and dedicated web developer, with an interest in self-development and learning new things. My aim is to create robust and high quality systems, which are aesthetically pleasing and provide usable interfaces. I'm very flexible and adaptable to new technologies, which I enjoy experimenting with. I like to work on interesting challenges, and I am currently looking to join a dynamic and ambitious team.
 
 ## Work
-----------------------------    --------------------
+----------------------------    -------------------
 Front End Developer - Essence    Sep 2014 - Current
-----------------------------    --------------------
+----------------------------    -------------------
 
 I worked with a Scrum team developing a web framework that provides offline capabilities to the Salesforce platform. The framework is built on HTML5 and AngularJS; it runs on a desktop browser, as well as mobile phones as a hybrid app using Cordova. Some of the work I did included:
 
